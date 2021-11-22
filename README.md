@@ -1,6 +1,8 @@
-# Scientific-Calculator
-Developed a scientific calculator desktop app using Tkinter module and its widgets in Python
+# Advanced-Calculator
+Developed a calculator desktop app using Tkinter module and its widgets in Python. This calculator has 3 modes : Basic, Scientific and Programmer mode.
 
 ## Properties
-This application features an excellent graphical user interface so that the program is likely to always engage the users.
-While using the program, users can see signs and click keys in order to perform the task.
+* The basic mode allows the user to perform simple arithmetic tasks.
+* The scientific mode allows the user to perform logarithmic, exponential and trigonometric operations alongside the arithmetic tasks.
+* The programmer mode allows the user to interconvert values between decimal, octal, binary and hexadecimal number systems.
+* The modes can be changed by selecting the desired mode displayed on the menu bar, which uses the os module to interact with the file system.
